@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChewseMealDistributionService:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChewseMealDistributionService_jar</output-path>
+    <root id="archive" name="Chewse_food_distribution_service.jar">
+      <element id="module-output" name="ChewseMealDistributionService" />
+    </root>
+  </artifact>
+</component>
